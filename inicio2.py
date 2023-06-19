@@ -1,0 +1,4 @@
+valor = 2 + 2
+print(valor)
+valor = 4 - 2
+print(valor)
